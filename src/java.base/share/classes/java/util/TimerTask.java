@@ -22,7 +22,7 @@
  * or visit www.oracle.com if you need additional information or have any
  * questions.
  *
- * August 03 2023 modified by Jack Meng (exoad)
+ * Modified by Jack Meng (exoad) on August 03 2023
  */
 
 package java.util;
